@@ -1,1 +1,1 @@
-# scs-module-1
+# scs-module-1-excel-challenge
